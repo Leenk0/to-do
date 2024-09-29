@@ -1,4 +1,4 @@
-# to-do
+# To-do List
 
 To-Do List Extension: https://chromewebstore.google.com/detail/to-do-list-extension/nnjlpeggkpckcoiamjblnoejoilnldka 
 
